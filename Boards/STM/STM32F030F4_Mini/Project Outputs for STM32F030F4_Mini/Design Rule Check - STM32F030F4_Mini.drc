@@ -1,0 +1,38 @@
+Protel Design System Design Rule Check
+PCB File : D:\Projects\PCB\MCUBoards\STM32F030F4_Mini\STM32F030F4_Mini.PcbDoc
+Date     : 2015/3/31
+Time     : 23:12:55
+
+Processing Rule : Hole Size Constraint (Min=8mil) (Max=150mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=15mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=15mil) (Preferred=8mil) (InNet('3V3'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=15mil) (Preferred=8mil) (InNet('5V'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=15mil) (Preferred=8mil) (InNet('GND'))
+Rule Violations :0
+
+Processing Rule : SMD Neck-Down Constraint (Percent=80%) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:00
