@@ -1,0 +1,45 @@
+Protel Design System Design Rule Check
+PCB File : D:\Projects\PCB\Boards\51\STC15F104_IR_RelayControl\STC15F104_IR_RelayControl.PcbDoc
+Date     : 2015/4/6
+Time     : 19:34:18
+
+Processing Rule : SMD Neck-Down Constraint (Percent=80%) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=200mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=80mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Pad Designator28-1(6845mil,3685mil)  Multi-Layer and 
+                     Pad Designator28-0(6765mil,3685mil)  Multi-Layer
+   Violation between Pad Designator28-0(6790mil,3740mil)  Multi-Layer and 
+                     Pad Designator28-1(6845mil,3685mil)  Multi-Layer
+   Violation between Pad Designator28-0(6900mil,3740mil)  Multi-Layer and 
+                     Pad Designator28-1(6845mil,3685mil)  Multi-Layer
+   Violation between Pad Designator28-0(6790mil,3630mil)  Multi-Layer and 
+                     Pad Designator28-1(6845mil,3685mil)  Multi-Layer
+   Violation between Pad Designator28-0(6900mil,3630mil)  Multi-Layer and 
+                     Pad Designator28-1(6845mil,3685mil)  Multi-Layer
+   Violation between Pad Designator28-0(6845mil,3605mil)  Multi-Layer and 
+                     Pad Designator28-1(6845mil,3685mil)  Multi-Layer
+   Violation between Pad Designator28-0(6845mil,3765mil)  Multi-Layer and 
+                     Pad Designator28-1(6845mil,3685mil)  Multi-Layer
+   Violation between Pad Designator28-0(6925mil,3685mil)  Multi-Layer and 
+                     Pad Designator28-1(6845mil,3685mil)  Multi-Layer
+Rule Violations :8
+
+
+Violations Detected : 8
+Time Elapsed        : 00:00:00

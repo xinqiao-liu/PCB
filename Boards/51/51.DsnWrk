@@ -2,3 +2,7 @@
 Version=1.0
 [Project1]
 ProjectPath=STC15F104_IR_RelayControl\STC15F104_IR_RelayControl.PrjPCB
+[Project2]
+ProjectPath=STC12C5A_ServoControl\STC12C5A_ServoControl.PrjPCB
+[Project3]
+ProjectPath=STC12C5A_LQFP44_Mini\STC12C5A_LQFP44_Mini.PrjPCB
