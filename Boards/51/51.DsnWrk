@@ -6,3 +6,5 @@ ProjectPath=STC15F104_IR_RelayControl\STC15F104_IR_RelayControl.PrjPCB
 ProjectPath=STC12C5A_ServoControl\STC12C5A_ServoControl.PrjPCB
 [Project3]
 ProjectPath=STC12C5A_LQFP44_Mini\STC12C5A_LQFP44_Mini.PrjPCB
+[Project4]
+ProjectPath=STC12C5A_DIP40_Mini\STC12C5A_DIP40_Mini.PrjPCB

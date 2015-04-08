@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Projects\PCB\Boards\51\STC12C5A_LQFP44_Mini\STC12C5A_LQFP44_Mini.PcbDoc
-Date     : 2015/4/7
-Time     : 20:44:17
+Date     : 2015/4/8
+Time     : 9:08:35
 
 Processing Rule : SMD Neck-Down Constraint (Percent=100%) (All)
 Rule Violations :0
@@ -9,78 +9,14 @@ Rule Violations :0
 Processing Rule : Hole Size Constraint (Min=1mil) (Max=200mil) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=8mil) (Max=10mil) (Preferred=8mil) (All)
+Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=8mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
-   Violation between Pad J1-1(5923.819mil,5168.15mil)  Top Layer and 
-                     Pad J1-MH1(5900.197mil,5215.708mil)  Multi-Layer
-   Violation between Pad J1-5(6026.181mil,5168.15mil)  Top Layer and 
-                     Pad J1-MH2(6049.803mil,5215.708mil)  Multi-Layer
-   Violation between Pad R15-6(5542.008mil,3265mil)  Top Layer and 
-                     Pad R15-8(5510.512mil,3265mil)  Top Layer
-   Violation between Pad R15-4(5573.504mil,3265mil)  Top Layer and 
-                     Pad R15-6(5542.008mil,3265mil)  Top Layer
-   Violation between Pad R15-2(5605mil,3265mil)  Top Layer and 
-                     Pad R15-4(5573.504mil,3265mil)  Top Layer
-   Violation between Pad R14-6(5942.008mil,3265mil)  Top Layer and 
-                     Pad R14-8(5910.512mil,3265mil)  Top Layer
-   Violation between Pad R14-4(5973.504mil,3265mil)  Top Layer and 
-                     Pad R14-6(5942.008mil,3265mil)  Top Layer
-   Violation between Pad R14-2(6005mil,3265mil)  Top Layer and 
-                     Pad R14-4(5973.504mil,3265mil)  Top Layer
-   Violation between Pad R6-6(6190mil,4452.008mil)  Bottom Layer and 
-                     Pad R6-8(6190mil,4420.512mil)  Bottom Layer
-   Violation between Pad R6-4(6190mil,4483.504mil)  Bottom Layer and 
-                     Pad R6-6(6190mil,4452.008mil)  Bottom Layer
-   Violation between Pad R6-2(6190mil,4515mil)  Bottom Layer and 
-                     Pad R6-4(6190mil,4483.504mil)  Bottom Layer
-   Violation between Pad R7-6(5325mil,4452.008mil)  Bottom Layer and 
-                     Pad R7-8(5325mil,4420.512mil)  Bottom Layer
-   Violation between Pad R7-4(5325mil,4483.504mil)  Bottom Layer and 
-                     Pad R7-6(5325mil,4452.008mil)  Bottom Layer
-   Violation between Pad R7-2(5325mil,4515mil)  Bottom Layer and 
-                     Pad R7-4(5325mil,4483.504mil)  Bottom Layer
-   Violation between Pad R10-6(6190mil,4287.008mil)  Bottom Layer and 
-                     Pad R10-8(6190mil,4255.512mil)  Bottom Layer
-   Violation between Pad R10-4(6190mil,4318.504mil)  Bottom Layer and 
-                     Pad R10-6(6190mil,4287.008mil)  Bottom Layer
-   Violation between Pad R10-2(6190mil,4350mil)  Bottom Layer and 
-                     Pad R10-4(6190mil,4318.504mil)  Bottom Layer
-   Violation between Pad R11-6(5325mil,4287.008mil)  Bottom Layer and 
-                     Pad R11-8(5325mil,4255.512mil)  Bottom Layer
-   Violation between Pad R11-4(5325mil,4318.504mil)  Bottom Layer and 
-                     Pad R11-6(5325mil,4287.008mil)  Bottom Layer
-   Violation between Pad R11-2(5325mil,4350mil)  Bottom Layer and 
-                     Pad R11-4(5325mil,4318.504mil)  Bottom Layer
-   Violation between Pad R13-6(5325mil,3487.008mil)  Bottom Layer and 
-                     Pad R13-8(5325mil,3455.512mil)  Bottom Layer
-   Violation between Pad R13-4(5325mil,3518.504mil)  Bottom Layer and 
-                     Pad R13-6(5325mil,3487.008mil)  Bottom Layer
-   Violation between Pad R13-2(5325mil,3550mil)  Bottom Layer and 
-                     Pad R13-4(5325mil,3518.504mil)  Bottom Layer
-   Violation between Pad R8-6(6190mil,3887.008mil)  Bottom Layer and 
-                     Pad R8-8(6190mil,3855.512mil)  Bottom Layer
-   Violation between Pad R8-4(6190mil,3918.504mil)  Bottom Layer and 
-                     Pad R8-6(6190mil,3887.008mil)  Bottom Layer
-   Violation between Pad R8-2(6190mil,3950mil)  Bottom Layer and 
-                     Pad R8-4(6190mil,3918.504mil)  Bottom Layer
-   Violation between Pad R9-6(5325mil,3887.008mil)  Bottom Layer and 
-                     Pad R9-8(5325mil,3855.512mil)  Bottom Layer
-   Violation between Pad R9-4(5325mil,3918.504mil)  Bottom Layer and 
-                     Pad R9-6(5325mil,3887.008mil)  Bottom Layer
-   Violation between Pad R9-2(5325mil,3950mil)  Bottom Layer and 
-                     Pad R9-4(5325mil,3918.504mil)  Bottom Layer
-   Violation between Pad R12-6(6190mil,3487.008mil)  Bottom Layer and 
-                     Pad R12-8(6190mil,3455.512mil)  Bottom Layer
-   Violation between Pad R12-4(6190mil,3518.504mil)  Bottom Layer and 
-                     Pad R12-6(6190mil,3487.008mil)  Bottom Layer
-   Violation between Pad R12-2(6190mil,3550mil)  Bottom Layer and 
-                     Pad R12-4(6190mil,3518.504mil)  Bottom Layer
-Rule Violations :32
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
@@ -89,5 +25,5 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 
-Violations Detected : 32
-Time Elapsed        : 00:00:00
+Violations Detected : 0
+Time Elapsed        : 00:00:05
