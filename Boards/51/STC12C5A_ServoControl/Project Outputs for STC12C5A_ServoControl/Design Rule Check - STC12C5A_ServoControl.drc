@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Projects\PCB\Boards\51\STC12C5A_ServoControl\STC12C5A_ServoControl.PcbDoc
-Date     : 2015/4/10
-Time     : 14:45:00
+Date     : 2015/4/11
+Time     : 20:56:26
 
 Processing Rule : Hole Size Constraint (Min=1mil) (Max=200mil) (All)
 Rule Violations :0
@@ -12,8 +12,56 @@ Rule Violations :0
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
-Rule Violations :0
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+   Violation between Pad R5-6(5332.008mil,4330mil)  Bottom Layer and 
+                     Pad R5-8(5300.512mil,4330mil)  Bottom Layer
+   Violation between Pad R5-4(5363.504mil,4330mil)  Bottom Layer and 
+                     Pad R5-6(5332.008mil,4330mil)  Bottom Layer
+   Violation between Pad R5-2(5395mil,4330mil)  Bottom Layer and 
+                     Pad R5-4(5363.504mil,4330mil)  Bottom Layer
+   Violation between Pad R6-6(5737.008mil,4330mil)  Bottom Layer and 
+                     Pad R6-8(5705.512mil,4330mil)  Bottom Layer
+   Violation between Pad R6-4(5768.504mil,4330mil)  Bottom Layer and 
+                     Pad R6-6(5737.008mil,4330mil)  Bottom Layer
+   Violation between Pad R6-2(5800mil,4330mil)  Bottom Layer and 
+                     Pad R6-4(5768.504mil,4330mil)  Bottom Layer
+   Violation between Pad R7-6(5332.008mil,3450mil)  Bottom Layer and 
+                     Pad R7-8(5300.512mil,3450mil)  Bottom Layer
+   Violation between Pad R7-4(5363.504mil,3450mil)  Bottom Layer and 
+                     Pad R7-6(5332.008mil,3450mil)  Bottom Layer
+   Violation between Pad R7-2(5395mil,3450mil)  Bottom Layer and 
+                     Pad R7-4(5363.504mil,3450mil)  Bottom Layer
+   Violation between Pad R8-6(5737.008mil,3450mil)  Bottom Layer and 
+                     Pad R8-8(5705.512mil,3450mil)  Bottom Layer
+   Violation between Pad R8-4(5768.504mil,3450mil)  Bottom Layer and 
+                     Pad R8-6(5737.008mil,3450mil)  Bottom Layer
+   Violation between Pad R8-2(5800mil,3450mil)  Bottom Layer and 
+                     Pad R8-4(5768.504mil,3450mil)  Bottom Layer
+   Violation between Pad R9-6(6142.008mil,4330mil)  Bottom Layer and 
+                     Pad R9-8(6110.512mil,4330mil)  Bottom Layer
+   Violation between Pad R9-4(6173.504mil,4330mil)  Bottom Layer and 
+                     Pad R9-6(6142.008mil,4330mil)  Bottom Layer
+   Violation between Pad R9-2(6205mil,4330mil)  Bottom Layer and 
+                     Pad R9-4(6173.504mil,4330mil)  Bottom Layer
+   Violation between Pad R10-6(6547.008mil,4330mil)  Bottom Layer and 
+                     Pad R10-8(6515.512mil,4330mil)  Bottom Layer
+   Violation between Pad R10-4(6578.504mil,4330mil)  Bottom Layer and 
+                     Pad R10-6(6547.008mil,4330mil)  Bottom Layer
+   Violation between Pad R10-2(6610mil,4330mil)  Bottom Layer and 
+                     Pad R10-4(6578.504mil,4330mil)  Bottom Layer
+   Violation between Pad R11-6(6142.008mil,3450mil)  Bottom Layer and 
+                     Pad R11-8(6110.512mil,3450mil)  Bottom Layer
+   Violation between Pad R11-4(6173.504mil,3450mil)  Bottom Layer and 
+                     Pad R11-6(6142.008mil,3450mil)  Bottom Layer
+   Violation between Pad R11-2(6205mil,3450mil)  Bottom Layer and 
+                     Pad R11-4(6173.504mil,3450mil)  Bottom Layer
+   Violation between Pad R12-6(6547.008mil,3450mil)  Bottom Layer and 
+                     Pad R12-8(6515.512mil,3450mil)  Bottom Layer
+   Violation between Pad R12-4(6578.504mil,3450mil)  Bottom Layer and 
+                     Pad R12-6(6547.008mil,3450mil)  Bottom Layer
+   Violation between Pad R12-2(6610mil,3450mil)  Bottom Layer and 
+                     Pad R12-4(6578.504mil,3450mil)  Bottom Layer
+Rule Violations :24
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
@@ -22,5 +70,5 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 24
 Time Elapsed        : 00:00:00
