@@ -12,3 +12,7 @@ ProjectPath=STC12C5A_DIP40_Mini\STC12C5A_DIP40_Mini.PrjPCB
 ProjectPath=STC15F204_SOP28_Clock_TH_24G\STC15F204_SOP28_Clock_TH_24G.PrjPCB
 [Project6]
 ProjectPath=STC11F02_SOP20_TDisplay\STC11F02_SOP20_TDisplay.PrjPCB
+[Project7]
+ProjectPath=STC11F04E_SOP20_UTo24G\STC11F04E_SOP20_UTo24G.PrjPCB
+[Project8]
+ProjectPath=C:\Users\Public\Documents\Altium\AD 10\Library\Miscellaneous Devices\Miscellaneous Devices.LibPkg
